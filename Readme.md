@@ -96,13 +96,13 @@ streamlit run main.py
 ## 📸 Demonstração
 
 **Tela Inicial**
-![Tela Inicial](https://via.placeholder.com/800x400?text=Roblox-Finance+UI)
+![Tela Inicial]![Tela inicial](image.png)
 
 **Tabela de Operações**
-![Tabela de Operações](https://via.placeholder.com/800x400?text=Tabela+de+Operações)
+![Lucro/Prejuízo]![Tela table](image-1.png)
 
 **Cálculo de Lucros/Prejuízos**
-![Lucro/Prejuízo](https://via.placeholder.com/800x400?text=Lucro+Prejuízo)
+![alt text](image-2.png)
 
 ---
 
