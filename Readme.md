@@ -96,13 +96,17 @@ streamlit run main.py
 ## 📸 Demonstração
 
 **Tela Inicial**
-![Tela Inicial]![Tela inicial](image.png)
+![Tela Inicial]
+(image.png)
 
 **Tabela de Operações**
-![Lucro/Prejuízo]![Tela table](image-1.png)
+![Lucro/Prejuízo]
+
+(image-1.png)
 
 **Cálculo de Lucros/Prejuízos**
-![alt text](image-2.png)
+![alt text]
+(image-2.png)
 
 ---
 

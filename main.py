@@ -10,6 +10,8 @@ st.set_page_config(
     layout="wide",  # wide ou "centered"
 )
 
+# Cor laranja para o tema #FF4B4B
+
 st.title('Minhas operações no Roblox-Finance :robot_face:')
 st.write('João Saraiva')
 
